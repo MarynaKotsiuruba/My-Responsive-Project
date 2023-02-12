@@ -95,6 +95,12 @@
     margin-left: 28px;
     text-align: left;
   }
+  .content-container h2 {
+    margin-left: 28px;
+  }
+  .content-container a {
+    margin-left: 28px;
+  }
   .content-container h3 {
     font-size: 18px;
     margin-left: 28px;
