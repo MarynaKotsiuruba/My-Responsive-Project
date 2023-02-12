@@ -64,6 +64,7 @@
   .about-link:hover{
     color: white;
     background: var(--primary-color);
+    box-shadow: var(--box-shadow);
   }
   .homepage-link {
     color: var(--primary-color);
