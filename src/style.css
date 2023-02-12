@@ -111,7 +111,9 @@
     padding: 80px 20px;
     text-align: left;
   }
-
+.active {
+  color: var(--primary-color) !important;
+}
   @media (max-width: 576px) {
     .content h1, .content h3 , .content p {
       text-align: center;
@@ -121,8 +123,8 @@
       justify-content: center;
      }
      h1 {
-      font-size: 44px;
-      line-height: 56px;
+      font-size: 40px;
+      line-height: 52px;
      }
      h2 {
       font-size: 32px;
@@ -130,8 +132,9 @@
      h2, p {
       text-align: center;
      }
-     .mobile-link{
+     .mobile-link {
       display: flex;
       justify-content: center;
-     }
+     } 
+
       }
